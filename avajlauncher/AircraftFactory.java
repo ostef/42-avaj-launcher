@@ -6,6 +6,10 @@ import avajlauncher.aircrafts.*;
 
 public class AircraftFactory
 {
+    public static final String[] AIRCRAFT_TYPES = {
+        "Helicopter", "JetPlane", "Baloon"
+    };
+
     private static AircraftFactory instance;
 
     private long idCounter;
