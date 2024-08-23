@@ -4,6 +4,7 @@ import java.util.Random;
 import java.util.List;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.io.PrintStream;
 import java.io.IOException;
 import java.io.FileReader;
 import java.io.BufferedReader;
@@ -107,6 +108,16 @@ public class Simulation
         {
             System.err.println ("Error: Too many arguments");
             System.exit (1);
+        }
+
+        try
+        {
+            PrintStream output_stream = new PrintStream ("simulation.txt");
+            System.setOut (output_stream);
+        }
+        catch (FileNotFoundException e)
+        {
+            System.err.println ("Error: could not create output file simulation.txt");
         }
 
         Simulation sim = new Simulation ();

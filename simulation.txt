@@ -1,0 +1,159 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1) Damn you rain! You messed up my baloon.
+Baloon#B2(2) It's snowing. We're gonna crash!
+JetPlane#J1(3) OMG! Winter is coming!
+Helicopter#H1(4) It's rainin'!
+Helicopter#H2(5) It's rainin'!
+Helicopter#H3(6) It's rainin'!
+Baloon#B3(7) Damn you rain! You messed up my baloon.
+JetPlane#J2(8) It's getting foggy.
+Helicopter#H4(9) This is hot.
+Baloon#B1(1) Let's enjoy the good weather and take some pics.
+Baloon#B2(2) Ain't gonna see nothin' with that fog.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H1(4) It's rainin'!
+Helicopter#H2(5) My rotor is going to freeze!
+Helicopter#H3(6) This is hot.
+Baloon#B3(7) It's snowing. We're gonna crash!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) My rotor is going to freeze!
+Baloon#B1(1) Ain't gonna see nothin' with that fog.
+Baloon#B2(2) It's snowing. We're gonna crash!
+JetPlane#J1(3) OMG! Winter is coming!
+Helicopter#H1(4) Can't see sh*t in here!
+Helicopter#H2(5) It's rainin'!
+Helicopter#H3(6) Can't see sh*t in here!
+Baloon#B3(7) It's snowing. We're gonna crash!
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from weather tower.
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B1(1) Let's enjoy the good weather and take some pics.
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H1(4) It's rainin'!
+Helicopter#H2(5) This is hot.
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) Let's fly into the sun cuz why not.
+Helicopter#H4(9) It's rainin'!
+Baloon#B1(1) It's snowing. We're gonna crash!
+Baloon#B2(2) Ain't gonna see nothin' with that fog.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H1(4) My rotor is going to freeze!
+Helicopter#H2(5) It's rainin'!
+Helicopter#H3(6) It's rainin'!
+JetPlane#J2(8) It's getting foggy.
+Helicopter#H4(9) It's rainin'!
+Baloon#B1(1) Ain't gonna see nothin' with that fog.
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H1(4) My rotor is going to freeze!
+Helicopter#H1(4) landing.
+Tower says: Helicopter#H1(4) unregistered from weather tower.
+Helicopter#H3(6) Can't see sh*t in here!
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) My rotor is going to freeze!
+Baloon#B1(1) Ain't gonna see nothin' with that fog.
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H2(5) Can't see sh*t in here!
+Helicopter#H3(6) It's rainin'!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) It's rainin'!
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) OMG! Winter is coming!
+Helicopter#H2(5) Can't see sh*t in here!
+Helicopter#H3(6) It's rainin'!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) This is hot.
+Baloon#B2(2) Damn you rain! You messed up my baloon.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H2(5) This is hot.
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) Let's fly into the sun cuz why not.
+Helicopter#H2(5) This is hot.
+Helicopter#H3(6) This is hot.
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) My rotor is going to freeze!
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H2(5) My rotor is going to freeze!
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) It's getting foggy.
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H2(5) My rotor is going to freeze!
+Helicopter#H3(6) Can't see sh*t in here!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) My rotor is going to freeze!
+Baloon#B2(2) It's snowing. We're gonna crash!
+JetPlane#J1(3) Let's fly into the sun cuz why not.
+Helicopter#H2(5) It's rainin'!
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) It's rainin'!
+Baloon#B2(2) Damn you rain! You messed up my baloon.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H2(5) My rotor is going to freeze!
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B2(2) Ain't gonna see nothin' with that fog.
+JetPlane#J1(3) OMG! Winter is coming!
+Helicopter#H2(5) This is hot.
+Helicopter#H3(6) This is hot.
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B2(2) It's snowing. We're gonna crash!
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H2(5) My rotor is going to freeze!
+Helicopter#H2(5) landing.
+Tower says: Helicopter#H2(5) unregistered from weather tower.
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) Can't see sh*t in here!
+Baloon#B2(2) Let's enjoy the good weather and take some pics.
+JetPlane#J1(3) OMG! Winter is coming!
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) OMG! Winter is coming!
+Helicopter#H4(9) My rotor is going to freeze!
+Helicopter#H4(9) landing.
+Tower says: Helicopter#H4(9) unregistered from weather tower.
+Baloon#B2(2) It's snowing. We're gonna crash!
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from weather tower.
+Helicopter#H3(6) This is hot.
+JetPlane#J2(8) OMG! Winter is coming!
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) It's getting foggy.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H3(6) Can't see sh*t in here!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+JetPlane#J1(3) Let's fly into the sun cuz why not.
+Helicopter#H3(6) My rotor is going to freeze!
+JetPlane#J2(8) OMG! Winter is coming!
+JetPlane#J1(3) Let's fly into the sun cuz why not.
+Helicopter#H3(6) This is hot.
+JetPlane#J2(8) Let's fly into the sun cuz why not.
+JetPlane#J1(3) It's getting foggy.
+Helicopter#H3(6) Can't see sh*t in here!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H3(6) Can't see sh*t in here!
+JetPlane#J2(8) It's getting foggy.
+JetPlane#J1(3) It's rainining. Better watch out for thunder.
+Helicopter#H3(6) It's rainin'!
+JetPlane#J2(8) It's rainining. Better watch out for thunder.
+Simulation ended.
