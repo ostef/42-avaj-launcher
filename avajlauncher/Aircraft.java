@@ -21,7 +21,7 @@ public class Aircraft extends Flyable
 
         if (this.coordinates.getHeight () <= 0)
         {
-            System.out.println (this.getFullName () + " landing.");
+            this.logMessage ("landing.");
             this.coordinates.setHeight (0);
             this.weatherTower.unregister (this);
         }

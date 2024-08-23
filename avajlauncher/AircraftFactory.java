@@ -1,5 +1,7 @@
 package avajlauncher;
 
+import java.lang.IllegalArgumentException;
+
 import avajlauncher.aircrafts.*;
 
 public class AircraftFactory
@@ -29,7 +31,7 @@ public class AircraftFactory
         if (type.equals ("Baloon"))
             return new Baloon (this.idCounter, name, coordinates);
 
-        return null;
+        throw new IllegalArgumentException ("Unknown aircraft type " + type);
     }
 }
 

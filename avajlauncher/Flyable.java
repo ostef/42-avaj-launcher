@@ -1,11 +1,16 @@
 package avajlauncher;
 
+import java.lang.IllegalArgumentException;
+
 public abstract class Flyable
 {
     protected WeatherTower weatherTower;
 
     public void registerTower (WeatherTower tower)
     {
+        if (tower == null)
+            throw new IllegalArgumentException ("tower is null");
+
         this.weatherTower = tower;
     }
 
