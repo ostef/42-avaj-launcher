@@ -91,6 +91,8 @@ public class Simulation
         {
             this.tower.changeWeather ();
         }
+
+        System.out.println ("Simulation ended.");
     }
 
     public static void main (String[] args)

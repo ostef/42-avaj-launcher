@@ -26,22 +26,22 @@ public class Baloon extends Aircraft
         case "SUN":
             this.coordinates.setLongitude (this.coordinates.getLongitude () + 2);
             this.coordinates.setHeight (this.coordinates.getHeight () + 4);
-            super.logMessage ("This is hot.");
+            super.logMessage ("Let's enjoy the good weather and take some pics.");
             break;
 
         case "RAIN":
             this.coordinates.setHeight (this.coordinates.getHeight () - 5);
-            super.logMessage ("It's rainin'!");
+            super.logMessage ("Damn you rain! You messed up my baloon.");
             break;
 
         case "FOG":
             this.coordinates.setHeight (this.coordinates.getHeight () - 3);
-            super.logMessage ("Can't see sh*t in here!");
+            super.logMessage ("Ain't gonna see nothin' with that fog.");
             break;
 
         case "SNOW":
             this.coordinates.setHeight (this.coordinates.getHeight () - 15);
-            super.logMessage ("My rotor is going to freeze!");
+            super.logMessage ("It's snowing. We're gonna crash!");
             break;
         }
 
