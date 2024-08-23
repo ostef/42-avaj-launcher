@@ -2,7 +2,7 @@ package avajlauncher;
 
 import java.util.Random;
 
-public class Simulator
+public class Simulation
 {
     public static void main (String[] args)
     {
