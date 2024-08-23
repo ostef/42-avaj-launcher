@@ -98,6 +98,20 @@ public class Simulation
 
     public static void main (String[] args)
     {
+        try
+        {
+            // Any error message should be printed to stdout according to the assignment for some reason
+            PrintStream original_output_stream = System.out;
+            System.setErr (original_output_stream);
+
+            PrintStream output_stream = new PrintStream ("simulation.txt");
+            System.setOut (output_stream);
+        }
+        catch (FileNotFoundException e)
+        {
+            System.err.println ("Error: could not create output file simulation.txt");
+        }
+
         if (args.length < 1)
         {
             System.err.println ("Error: You need to provide a file to parse");
@@ -108,16 +122,6 @@ public class Simulation
         {
             System.err.println ("Error: Too many arguments");
             System.exit (1);
-        }
-
-        try
-        {
-            PrintStream output_stream = new PrintStream ("simulation.txt");
-            System.setOut (output_stream);
-        }
-        catch (FileNotFoundException e)
-        {
-            System.err.println ("Error: could not create output file simulation.txt");
         }
 
         Simulation sim = new Simulation ();
